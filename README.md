@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Prince Raj | AWS Solutions Architect" width="100%" />
-</p>
-
 # Prince Raj
 
 ### AWS Solutions Architect • AI Systems Architect • Founder @ AvniLabs AI
@@ -81,7 +77,6 @@ Previously worked with **Expedia**, **Freecharge**, and **Videology**, where I a
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=princexraj&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princexraj&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
@@ -103,12 +98,6 @@ https://www.upwork.com/freelancers/~014c8cfd0fbdf299bc
 
 🐙 **GitHub**  
 https://github.com/princexraj
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/princexraj/princexraj/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
 
 ---
 
